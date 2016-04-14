@@ -1,2 +1,2 @@
-# generator-business
-A business scaffolding generator (with Yeoman)
+# generator-design
+A design scaffolding generator (with Yeoman)
