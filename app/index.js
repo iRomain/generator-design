@@ -2,6 +2,8 @@ var generators = require('yeoman-generator');
 var yosay = require('yosay');
 var _ = require('lodash');
 var mkdirp = require('mkdirp');
+var optionOrPrompt = require('yeoman-option-or-prompt');
+
 
 module.exports = generators.Base.extend({
 
